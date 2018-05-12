@@ -1,0 +1,39 @@
+_repo: Round-the-World-in-Seven-Days_15773
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Michael, A. C. (Arthur C.)
+    aliases:
+    - Michael, Arthur C.
+    - Michael, A.C.
+    gutenberg_agent_id: '36114'
+    url: http://www.gutenberg.org/2009/agents/36114
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/39124
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+description: ''
+gutenberg_issued: '2005-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Voyages around the world -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Airplanes -- Piloting -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Air pilots -- Juvenile fiction'
+title: Round the World in Seven Days
+url: http://www.gutenberg.org/ebooks/15773
